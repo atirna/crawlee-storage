@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 - [**breaking**] Replace require_record_metadata flag with a higher-level resolveValue method ([#60](https://github.com/apify/crawlee-storage/pull/60)) ([0930389](https://github.com/apify/crawlee-storage/commit/09303899f4d8e29c65393619613286add934864a)) by [@janbuchar](https://github.com/janbuchar)
 - GetPublicUrl checks for existence, listKeys validates exclusiveStartKey ([#61](https://github.com/apify/crawlee-storage/pull/61)) ([4e6d32f](https://github.com/apify/crawlee-storage/commit/4e6d32f7038846943f0d737d06fbcaa49521a245)) by [@janbuchar](https://github.com/janbuchar)
 - Add option to include selected bare files in listKeys output ([#69](https://github.com/apify/crawlee-storage/pull/69)) ([b64a6ba](https://github.com/apify/crawlee-storage/commit/b64a6bacab03b945c97ff5f5af8dcc200d191000)) by [@janbuchar](https://github.com/janbuchar)
+- **node:** Publish prebuilt binaries for more targets ([#72](https://github.com/apify/crawlee-storage/pull/72)) ([26d835d](https://github.com/apify/crawlee-storage/commit/26d835d8661bdd93faec6a56a2625f760b28a823)) by [@Pijukatel](https://github.com/Pijukatel), closes [#71](https://github.com/apify/crawlee-storage/issues/71)
 
 ### 🐛 Bug Fixes
 
