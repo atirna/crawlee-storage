@@ -2,8 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-<!-- git-cliff-unreleased-start -->
-## 0.1.5 - **not yet released**
+## [0.2.0](https://github.com/apify/crawlee-storage/releases/tag/v0.2.0) (2026-08-27)
 
 ### 🚀 Features
 
@@ -32,7 +31,6 @@ All notable changes to this project will be documented in this file.
 - [**breaking**] Make public interface more consistent and idiomatic ([#70](https://github.com/apify/crawlee-storage/pull/70)) ([a0dfa25](https://github.com/apify/crawlee-storage/commit/a0dfa25757500d7a298a3a34fe5445ce61a7e4ac)) by [@janbuchar](https://github.com/janbuchar)
 
 
-<!-- git-cliff-unreleased-end -->
 # Changelog
 
 All notable changes to this project will be documented in this file.
