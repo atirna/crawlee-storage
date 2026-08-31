@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+<!-- git-cliff-unreleased-start -->
+## 0.2.1 - **not yet released**
+
+### 🐛 Bug Fixes
+
+- Do not check existence in get_public_url ([#75](https://github.com/apify/crawlee-storage/pull/75)) ([730d905](https://github.com/apify/crawlee-storage/commit/730d905b86388c08f131c2fede6fb329015c06a0)) by [@janbuchar](https://github.com/janbuchar)
+
+
+<!-- git-cliff-unreleased-end -->
 ## [0.2.0](https://github.com/apify/crawlee-storage/releases/tag/v0.2.0) (2026-08-27)
 
 ### 🚀 Features
